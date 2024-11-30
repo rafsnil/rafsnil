@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [rafsnil@gmail.com](mailto:rafsnil@gmail.com)
+* ✉️  You can contact me at [rafidniloy98@gmail.com](mailto:rafsnil@gmail.com)
 * 🧠 I'm currently working with Java, SpringBoot, Golang and K8s.
 * ⚡  I love anime and working out
 
